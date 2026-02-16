@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test artifacts
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Local settings
+local_settings.py
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Nested repositories
+cvat/
+
+# Generated media
+BGMI map stream/out/
