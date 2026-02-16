@@ -46,3 +46,4 @@ cvat/
 
 # Generated media
 BGMI map stream/out/
+training_dataset/
