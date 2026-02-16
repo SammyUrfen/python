@@ -46,5 +46,19 @@ cvat/
 
 # Generated media
 BGMI map stream/out/
+BGMI map stream/frames/
+BGMI map stream/Bgmi.mp4
+BGMI map stream/base_map.png
+
+# Large datasets & artifacts
 training_dataset/
+training_dataset/images/
+training_dataset/box_labels/
+!training_dataset/json_converter.py
+Math_bot/saves/
+Math_bot/tests/
+
+# Machine-learning data
 ML_from_Scratch/*.csv
+ML_from_Scratch/IDS_mapping.txt
+ML_from_Scratch/mnist_model.pkl
