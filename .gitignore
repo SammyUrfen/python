@@ -47,3 +47,4 @@ cvat/
 # Generated media
 BGMI map stream/out/
 training_dataset/
+ML_from_Scratch/*.csv
