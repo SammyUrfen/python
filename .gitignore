@@ -43,6 +43,7 @@ local_settings.py
 
 # Nested repositories
 cvat/
+meta-openenv/
 
 # Generated media
 BGMI map stream/out/
